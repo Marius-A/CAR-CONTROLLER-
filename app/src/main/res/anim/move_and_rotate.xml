@@ -1,0 +1,16 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Rotate -->
+    <rotate android:fromDegrees="30" android:toDegrees="0"
+        android:pivotX="50%" android:pivotY="50%" android:repeatCount="4"
+        android:repeatMode="reverse" android:duration="2000"
+        android:interpolator="@android:anim/linear_interpolator" />
+    <!--  Left to right -->
+    <translate android:fromXDelta="-50%p" android:toXDelta="150%p"
+        android:fromYDelta="100%p" android:toYDelta="0" android:duration="10000"
+        android:interpolator="@android:anim/linear_interpolator" />
+    <!--  Up and down bob -->
+    <translate android:fromXDelta="0" android:toXDelta="0"
+        android:fromYDelta="30" android:toYDelta="-30" android:repeatMode="reverse"
+        android:repeatCount="4" android:interpolator="@android:anim/linear_interpolator"
+        android:duration="2000" />
+</set>

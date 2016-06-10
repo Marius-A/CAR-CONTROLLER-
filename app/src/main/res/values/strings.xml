@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarControl</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_bt_category">7a020c</string>
+    <string name="headset_bt_category">240404</string>
+    <string name="keyboard_bt_category">2540</string>
+    <string name="plaintext">Aceasta este o simpla aplicatie android creata in cadrul programului HowToTriathlon 2016 organizat de OSACE</string>
+</resources>
