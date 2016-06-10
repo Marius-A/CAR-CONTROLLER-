@@ -7,4 +7,5 @@ This is a simple android application, with which we control a little car via Blu
 
 * [Presentation](http://prezi.com/jvet71qyipxl/?utm_campaign=share&utm_medium=copy)
 
-* [![Video](http://img.dxcdn.com/productimages/sku_146418_1.jpg =200x200)](http://sendvid.com/kxlfnwqq)
+*CLICK DE PICTURE TO SEE THE APP DEMO
+[![Video](http://img.dxcdn.com/productimages/sku_146418_1.jpg =200x200)](http://sendvid.com/kxlfnwqq)
